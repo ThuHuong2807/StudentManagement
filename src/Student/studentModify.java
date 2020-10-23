@@ -16,10 +16,6 @@ import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- * CRUD (insert, update, delete, findAll)
- * @author Diep.Tran
- */
 public class studentModify {
     public static List<student> findAll() {
         List<student> studentList = new ArrayList<>();
